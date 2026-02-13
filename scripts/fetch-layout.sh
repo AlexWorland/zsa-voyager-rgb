@@ -49,4 +49,12 @@ curl -sL "https://oryx.zsa.io/$LAYOUT_HASH/$REVISION_HASH/source" -o "$PROJECT_D
 cd "$PROJECT_DIR/oryx-export"
 unzip -o source.zip
 
+# Flatten: source files may be in a subdirectory
+for subdir in *_source; do
+    if [ -d "$subdir" ]; then
+        cp "$subdir"/* . 2>/dev/null || true
+        echo "Flattened $subdir/"
+    fi
+done
+
 echo "Done. Source files in oryx-export/, layout JSON in rgb-schemes/layout.json"

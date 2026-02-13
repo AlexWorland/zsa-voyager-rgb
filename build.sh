@@ -22,6 +22,7 @@ sync_keymap() {
     cp "$PROJECT_DIR/oryx-export/keymap.c" "$KEYMAP_DIR/keymap.c"
     cp "$PROJECT_DIR/oryx-export/config.h" "$KEYMAP_DIR/config.h"
     cp "$PROJECT_DIR/oryx-export/rules.mk" "$KEYMAP_DIR/rules.mk"
+    cp "$PROJECT_DIR/oryx-export/keymap.json" "$KEYMAP_DIR/keymap.json"
     echo "Synced to $KEYMAP_DIR"
 }
 

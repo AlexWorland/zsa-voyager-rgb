@@ -1,0 +1,1516 @@
+{
+  "keyboard": "voyager",
+  "layout_title": "Basic With Ball",
+  "layout_hash": "DYX0N",
+  "revision_hash": "EeawWA",
+  "total_keys": 52,
+  "layers": [
+    {
+      "index": 0,
+      "name": "Main",
+      "keys": [
+        {
+          "position": 0,
+          "tap": "KC_EQUAL",
+          "hold": "KC_ESCAPE",
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 1,
+          "tap": "KC_1",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 2,
+          "tap": "KC_2",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 3,
+          "tap": "KC_3",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 4,
+          "tap": "KC_4",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 5,
+          "tap": "KC_5",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 6,
+          "tap": "CW_TOGG",
+          "hold": null,
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 7,
+          "tap": "KC_Q",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 8,
+          "tap": "KC_W",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 9,
+          "tap": "KC_E",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 10,
+          "tap": "KC_R",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 11,
+          "tap": "KC_T",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 12,
+          "tap": "KC_BSPC",
+          "hold": "KC_LEFT_SHIFT",
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 13,
+          "tap": "KC_A",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 14,
+          "tap": "KC_S",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 15,
+          "tap": "KC_D",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 16,
+          "tap": "KC_F",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 17,
+          "tap": "KC_G",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 18,
+          "tap": "KC_LEFT_GUI",
+          "hold": null,
+          "holdLayer": null,
+          "category": "modifier"
+        },
+        {
+          "position": 19,
+          "tap": "KC_Z",
+          "hold": "KC_LEFT_ALT",
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 20,
+          "tap": "KC_X",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 21,
+          "tap": "KC_C",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 22,
+          "tap": "KC_V",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 23,
+          "tap": "KC_B",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 24,
+          "tap": "KC_ENTER",
+          "hold": "MO",
+          "holdLayer": 1,
+          "category": "layer_toggle"
+        },
+        {
+          "position": 25,
+          "tap": "KC_TAB",
+          "hold": "KC_LEFT_CTRL",
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 26,
+          "tap": "KC_6",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 27,
+          "tap": "KC_7",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 28,
+          "tap": "KC_8",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 29,
+          "tap": "KC_9",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 30,
+          "tap": "KC_0",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 31,
+          "tap": "KC_MINUS",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 32,
+          "tap": "KC_Y",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 33,
+          "tap": "KC_U",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 34,
+          "tap": "KC_I",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 35,
+          "tap": "KC_O",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 36,
+          "tap": "KC_P",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 37,
+          "tap": "KC_BSLS",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 38,
+          "tap": "KC_H",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 39,
+          "tap": "KC_J",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 40,
+          "tap": "KC_K",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 41,
+          "tap": "KC_L",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 42,
+          "tap": "KC_SCLN",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 43,
+          "tap": "KC_QUOTE",
+          "hold": "KC_RIGHT_SHIFT",
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 44,
+          "tap": "KC_N",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 45,
+          "tap": "KC_M",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 46,
+          "tap": "KC_COMMA",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 47,
+          "tap": "KC_DOT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 48,
+          "tap": "KC_SLASH",
+          "hold": "KC_RIGHT_ALT",
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 49,
+          "tap": "KC_RIGHT_CTRL",
+          "hold": null,
+          "holdLayer": null,
+          "category": "modifier"
+        },
+        {
+          "position": 50,
+          "tap": "KC_BSPC",
+          "hold": "KC_LEFT_SHIFT",
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 51,
+          "tap": "KC_SPACE",
+          "hold": "MO",
+          "holdLayer": 2,
+          "category": "layer_toggle"
+        }
+      ],
+      "summary": {
+        "symbol": 4,
+        "alpha": 40,
+        "editing": 4,
+        "modifier": 2,
+        "layer_toggle": 2
+      }
+    },
+    {
+      "index": 1,
+      "name": "Sym+Num",
+      "keys": [
+        {
+          "position": 0,
+          "tap": "KC_ESCAPE",
+          "hold": null,
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 1,
+          "tap": "KC_F1",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 2,
+          "tap": "KC_F2",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 3,
+          "tap": "KC_F3",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 4,
+          "tap": "KC_F4",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 5,
+          "tap": "KC_F5",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 6,
+          "tap": "KC_GRAVE",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 7,
+          "tap": "KC_EXLM",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 8,
+          "tap": "KC_AT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 9,
+          "tap": "KC_HASH",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 10,
+          "tap": "KC_DLR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 11,
+          "tap": "KC_PERC",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 12,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 13,
+          "tap": "KC_CIRC",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 14,
+          "tap": "KC_AMPR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 15,
+          "tap": "KC_ASTR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 16,
+          "tap": "KC_LPRN",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 17,
+          "tap": "KC_RPRN",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 18,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 19,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 20,
+          "tap": "KC_LBRC",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 21,
+          "tap": "KC_RBRC",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 22,
+          "tap": "KC_LCBR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 23,
+          "tap": "KC_RCBR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 24,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 25,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 26,
+          "tap": "KC_F6",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 27,
+          "tap": "KC_F7",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 28,
+          "tap": "KC_F8",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 29,
+          "tap": "KC_F9",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 30,
+          "tap": "KC_F10",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 31,
+          "tap": "KC_F11",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 32,
+          "tap": "KC_7",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 33,
+          "tap": "KC_8",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 34,
+          "tap": "KC_9",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 35,
+          "tap": "KC_MINUS",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 36,
+          "tap": "KC_SLASH",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 37,
+          "tap": "KC_F12",
+          "hold": null,
+          "holdLayer": null,
+          "category": "function"
+        },
+        {
+          "position": 38,
+          "tap": "KC_4",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 39,
+          "tap": "KC_5",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 40,
+          "tap": "KC_6",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 41,
+          "tap": "KC_PLUS",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 42,
+          "tap": "KC_ASTR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 43,
+          "tap": "KC_BSPC",
+          "hold": null,
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 44,
+          "tap": "KC_1",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 45,
+          "tap": "KC_2",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 46,
+          "tap": "KC_3",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 47,
+          "tap": "KC_DOT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        },
+        {
+          "position": 48,
+          "tap": "KC_EQUAL",
+          "hold": null,
+          "holdLayer": null,
+          "category": "symbol"
+        },
+        {
+          "position": 49,
+          "tap": "KC_ENTER",
+          "hold": null,
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 50,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 51,
+          "tap": "KC_0",
+          "hold": null,
+          "holdLayer": null,
+          "category": "alpha"
+        }
+      ],
+      "summary": {
+        "editing": 3,
+        "function": 12,
+        "symbol": 20,
+        "transparent": 6,
+        "alpha": 11
+      }
+    },
+    {
+      "index": 2,
+      "name": "Brd+Sys",
+      "keys": [
+        {
+          "position": 0,
+          "tap": "RGB_TOG",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 1,
+          "tap": "TOGGLE_LAYER_COLOR",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 2,
+          "tap": "RGB_MODE_FORWARD",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 3,
+          "tap": "RGB_SLD",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 4,
+          "tap": "RGB_VAD",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 5,
+          "tap": "RGB_VAI",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 6,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 7,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 8,
+          "tap": "KC_AUDIO_VOL_DOWN",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 9,
+          "tap": "KC_AUDIO_VOL_UP",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 10,
+          "tap": "KC_AUDIO_MUTE",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 11,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 12,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 13,
+          "tap": "KC_MEDIA_PREV_TRACK",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 14,
+          "tap": "KC_MEDIA_NEXT_TRACK",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 15,
+          "tap": "KC_MEDIA_STOP",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 16,
+          "tap": "KC_MEDIA_PLAY_PAUSE",
+          "hold": null,
+          "holdLayer": null,
+          "category": "media"
+        },
+        {
+          "position": 17,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 18,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 19,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 20,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 21,
+          "tap": "RGB",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 22,
+          "tap": "RGB",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 23,
+          "tap": "RGB",
+          "hold": null,
+          "holdLayer": null,
+          "category": "rgb_control"
+        },
+        {
+          "position": 24,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 25,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 26,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 27,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 28,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 29,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 30,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 31,
+          "tap": "QK_BOOT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "system"
+        },
+        {
+          "position": 32,
+          "tap": "KC_PAGE_UP",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 33,
+          "tap": "KC_HOME",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 34,
+          "tap": "KC_UP",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 35,
+          "tap": "KC_END",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 36,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 37,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 38,
+          "tap": "KC_PGDN",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 39,
+          "tap": "KC_LEFT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 40,
+          "tap": "KC_DOWN",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 41,
+          "tap": "KC_RIGHT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "nav"
+        },
+        {
+          "position": 42,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 43,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 44,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 45,
+          "tap": "KC_TAB",
+          "hold": null,
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 46,
+          "tap": "KC_TAB",
+          "hold": null,
+          "holdLayer": null,
+          "category": "editing"
+        },
+        {
+          "position": 47,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 48,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 49,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 50,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        },
+        {
+          "position": 51,
+          "tap": "KC_TRANSPARENT",
+          "hold": null,
+          "holdLayer": null,
+          "category": "transparent"
+        }
+      ],
+      "summary": {
+        "rgb_control": 9,
+        "transparent": 25,
+        "media": 7,
+        "system": 1,
+        "nav": 8,
+        "editing": 2
+      }
+    },
+    {
+      "index": 3,
+      "name": "Mouse",
+      "keys": [
+        {
+          "position": 0,
+          "tap": "NAVIGATOR_DEC_CPI",
+          "hold": null,
+          "holdLayer": null,
+          "category": "mouse"
+        },
+        {
+          "position": 1,
+          "tap": "NAVIGATOR_INC_CPI",
+          "hold": null,
+          "holdLayer": null,
+          "category": "mouse"
+        },
+        {
+          "position": 2,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 3,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 4,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 5,
+          "tap": "QK_LLCK",
+          "hold": null,
+          "holdLayer": null,
+          "category": "layer_toggle"
+        },
+        {
+          "position": 6,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 7,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 8,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 9,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 10,
+          "tap": "KC_MS_BTN3",
+          "hold": null,
+          "holdLayer": null,
+          "category": "mouse"
+        },
+        {
+          "position": 11,
+          "tap": "TOGGLE_SCROLL",
+          "hold": null,
+          "holdLayer": null,
+          "category": "mouse"
+        },
+        {
+          "position": 12,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 13,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 14,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 15,
+          "tap": "KC_MS_BTN2",
+          "hold": null,
+          "holdLayer": null,
+          "category": "mouse"
+        },
+        {
+          "position": 16,
+          "tap": "KC_MS_BTN1",
+          "hold": null,
+          "holdLayer": null,
+          "category": "mouse"
+        },
+        {
+          "position": 17,
+          "tap": "KC_NO",
+          "hold": "DRAG_SCROLL",
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 18,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 19,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 20,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 21,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 22,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 23,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 24,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 25,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 26,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 27,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 28,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 29,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 30,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 31,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 32,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 33,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 34,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 35,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 36,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 37,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 38,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 39,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 40,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 41,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 42,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 43,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 44,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 45,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 46,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 47,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 48,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 49,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 50,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        },
+        {
+          "position": 51,
+          "tap": "KC_NO",
+          "hold": null,
+          "holdLayer": null,
+          "category": "unused"
+        }
+      ],
+      "summary": {
+        "mouse": 6,
+        "unused": 45,
+        "layer_toggle": 1
+      }
+    }
+  ]
+}

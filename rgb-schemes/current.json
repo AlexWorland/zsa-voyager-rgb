@@ -1,0 +1,91 @@
+{
+  "name": "Functional",
+  "description": "High-contrast, distinct color per key category",
+  "transparent_mode": "dim_glow",
+  "palette": {
+    "alpha": {
+      "r": 160,
+      "g": 155,
+      "b": 140,
+      "desc": "warm white"
+    },
+    "modifier": {
+      "r": 0,
+      "g": 200,
+      "b": 200,
+      "desc": "cyan"
+    },
+    "nav": {
+      "r": 40,
+      "g": 80,
+      "b": 220,
+      "desc": "blue"
+    },
+    "symbol": {
+      "r": 220,
+      "g": 130,
+      "b": 0,
+      "desc": "orange"
+    },
+    "function": {
+      "r": 140,
+      "g": 40,
+      "b": 220,
+      "desc": "purple"
+    },
+    "media": {
+      "r": 0,
+      "g": 200,
+      "b": 50,
+      "desc": "green"
+    },
+    "editing": {
+      "r": 220,
+      "g": 30,
+      "b": 30,
+      "desc": "red"
+    },
+    "rgb_control": {
+      "r": 220,
+      "g": 200,
+      "b": 0,
+      "desc": "yellow"
+    },
+    "layer_toggle": {
+      "r": 220,
+      "g": 0,
+      "b": 220,
+      "desc": "magenta"
+    },
+    "mouse": {
+      "r": 0,
+      "g": 200,
+      "b": 130,
+      "desc": "teal"
+    },
+    "transparent": {
+      "r": 25,
+      "g": 25,
+      "b": 25,
+      "desc": "dim glow"
+    },
+    "unused": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "desc": "off"
+    },
+    "system": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "desc": "bright red"
+    },
+    "other": {
+      "r": 100,
+      "g": 100,
+      "b": 100,
+      "desc": "gray"
+    }
+  }
+}
