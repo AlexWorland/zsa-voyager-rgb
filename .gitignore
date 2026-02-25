@@ -4,4 +4,3 @@ qmk_firmware/
 *.uf2
 *.zip
 .DS_Store
-oryx-export/
